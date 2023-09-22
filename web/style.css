@@ -7,7 +7,7 @@
     box-sizing: border-box;
 }
 body{
-    background-image: repeating-linear-gradient(120deg, lime, blue);
+    background-color: aqua;
 }
 #dl{
     display: grid;
